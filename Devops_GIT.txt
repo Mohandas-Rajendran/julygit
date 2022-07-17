@@ -1,4 +1,3 @@
-
 DEVOPS: Cost Reduction, Time Reduction, Effort Reduction
 
 GIT
